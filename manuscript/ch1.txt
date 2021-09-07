@@ -1,0 +1,22 @@
+# Small resource tests
+
+## Images
+
+png:
+
+![](apple.png)
+
+jpg:
+
+![](bath.jpg)
+
+## Code
+
+Ruby:
+
+![](ruby.rb)
+
+Haskell:
+
+![](haskell.hs)
+
